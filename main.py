@@ -45,7 +45,7 @@ def main():
     symbol_table = SymbolTable()
     statements = [
         "x = 23",
-        "y = 'Hello Prof. Nelson'",
+        "y = 'Hello Prof.Nelson'",
         "z = 'Hello World'",
         "x = 22"
     ]
